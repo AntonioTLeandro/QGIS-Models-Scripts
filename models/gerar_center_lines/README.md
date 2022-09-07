@@ -1,5 +1,5 @@
 <h1 align="center">Gerar Center Lines</h1>
-<h4 align="center">Gerando linhas central em polígonos</h4>
+<h3 align="center">Gerando linhas central em polígonos</h3>
 
 Criar linhas de centro a partir de uma geometria poligonal, é um recurso muito utilizado nos temas de hidrografia e sistema viário, onde é necessário criar as linhas de centro para definir o eixo de ambos, existem algumas ferramentas já disponível em alguns softwares, porém, depois de muitos testes sempre acaba gerando o eixo com muitos resíduos, inconsistentes com o objetivo desejado. Como mostra a Imagem abaixo.
  
