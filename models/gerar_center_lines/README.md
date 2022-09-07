@@ -1,7 +1,7 @@
 <h1 align="center">Gerar Center Lines</h1>
 <h3 align="center">Gerando linhas central em polígonos</h3>
 
-Criar linhas de centro a partir de uma geometria poligonal, é um recurso muito utilizado nos temas de hidrografia e sistema viário, onde é necessário criar as linhas de centro para definir o eixo de ambos, existem algumas ferramentas já disponível em alguns softwares, porém, depois de muitos testes sempre acaba gerando o eixo com muitos resíduos, inconsistentes com o objetivo desejado. Como mostra a Imagem abaixo.
+<p align="justify">Criar linhas de centro a partir de uma geometria poligonal, é um recurso muito utilizado nos temas de hidrografia e sistema viário, onde é necessário criar as linhas de centro para definir o eixo de ambos, existem algumas ferramentas já disponível em alguns softwares, porém, depois de muitos testes sempre acaba gerando o eixo com muitos resíduos, inconsistentes com o objetivo desejado. Como mostra a Imagem abaixo.</p>
  
 
 Na intenção de melhorar esses processos, e ter o melhor resultado possível, utilizando o QGIS, e suas ferramentas, montei um modelo, com 23 funções nativas do QGIS, para ter o melhor resultado. Cabe salientar, que ainda é possível chegar em um melhor resultado, implementando algumas melhorias ao processo.
