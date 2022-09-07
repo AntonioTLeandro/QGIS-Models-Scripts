@@ -12,7 +12,7 @@
 <p align="justify">Segue abaixo a imagens do modelo.</p>
 
 <p align="center">
-   <img width="800" src="imgs/imagem_2.JPG" alt="imagem_II">
+   <img width="800" src="imgs/Imagem_2.JPG" alt="imagem_II">
 </p>
 
 <p align="center">
