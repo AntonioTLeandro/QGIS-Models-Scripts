@@ -27,8 +27,7 @@
    <img width="400" src="imgs/imagem_4.JPG" alt="imagem_IV">
 </p>
 
-  
-O modelo funciona somente a partir de versão do QGIS 3.26 Buenos Aires
-Este encontra-se disponível no link abaixo:
-https://github.com/AntonioTLeandro/QGIS-Models-Scripts/tree/main/models/gerar_center_lines
+ 
+<p align="justify"> O modelo funciona somente a partir de versão do QGIS 3.26 Buenos Aires</p>
+
 
