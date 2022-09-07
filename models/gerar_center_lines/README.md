@@ -4,7 +4,7 @@
 <p align="justify">Criar linhas de centro a partir de uma geometria poligonal, é um recurso muito utilizado nos temas de hidrografia e sistema viário, onde é necessário criar as linhas de centro para definir o eixo de ambos, existem algumas ferramentas já disponível em alguns softwares, porém, depois de muitos testes sempre acaba gerando o eixo com muitos resíduos, inconsistentes com o objetivo desejado. Como mostra a Imagem abaixo.</p>
 
 <p align="center">
-    <img width="200px" src="https://github.com/AntonioTLeandro/QGIS-Models-Scripts/edit/main/models/gerar_center_lines/imgs/imagem_3.JPG" alt="imagem_III">
+    <img width="200px" src="https://github.com/AntonioTLeandro/QGIS-Models-Scripts/edit/main/models/gerar_center_lines/imgs/imagem_3.svg" alt="imagem_III">
 </p>
  
 
