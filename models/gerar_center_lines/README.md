@@ -3,7 +3,9 @@
 
 <p align="justify">Criar linhas de centro a partir de uma geometria poligonal, é um recurso muito utilizado nos temas de hidrografia e sistema viário, onde é necessário criar as linhas de centro para definir o eixo de ambos, existem algumas ferramentas já disponível em alguns softwares, porém, depois de muitos testes sempre acaba gerando o eixo com muitos resíduos, inconsistentes com o objetivo desejado. Como mostra a Imagem abaixo.</p>
 
-<img width="800" src="imgs/imagem_3.JPG" alt="imagem_III">
+<p align="center">
+   <img width="400" src="imgs/imagem_3.JPG" alt="imagem_III">
+</p>
  
 
 Na intenção de melhorar esses processos, e ter o melhor resultado possível, utilizando o QGIS, e suas ferramentas, montei um modelo, com 23 funções nativas do QGIS, para ter o melhor resultado. Cabe salientar, que ainda é possível chegar em um melhor resultado, implementando algumas melhorias ao processo.
