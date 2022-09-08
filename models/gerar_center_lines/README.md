@@ -31,5 +31,6 @@
 
  
 <p align="justify"> O modelo funciona somente a partir de versão do QGIS 3.26 Buenos Aires</p>
+<p align="justify">Vale ressaltar que em shapefiles muito grande ou muito complexos e dependendo da configuração do seu computador, o processo pode ser um pouco mais demorado.</p>
 
 
